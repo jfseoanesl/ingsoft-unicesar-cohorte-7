@@ -6,6 +6,7 @@ public class Compania {
     private Tester tester;
     private Programador programador;
 
+
     public Compania(Arquitecto arquitecto, Tester tester, Programador programador) {
         this.arquitecto = arquitecto;
         this.tester = tester;

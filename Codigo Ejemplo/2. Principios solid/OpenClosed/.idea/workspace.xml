@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e281e46-45f6-494a-a5d9-0584453fcdd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.1. Encapsula lo que varia/CostoTotalDePedido/src/main/java/org/example/bad/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.1. Encapsula lo que varia/CostoTotalDePedido/src/main/java/org/example/bad/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Arquitecto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Arquitecto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Compania.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Compania.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Programador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Programador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.2 Programa a una interfaz/CompaniaDeSoftware/src/main/java/org/example/bad/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.3 Composicion vs Herencia/CatalogoZapatos/src/main/java/com/mycompany/catalogozapatos/bad/Casual.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Principios Universales de Diseño Software/1.3 Composicion vs Herencia/CatalogoZapatos/src/main/java/com/mycompany/catalogozapatos/bad/Casual.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hsbAnYBJY9qSjKCg9IA1ZBipIo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/IngSoft 2024-II/Codigo Ejemplo/2. Principios solid/Liskov"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e281e46-45f6-494a-a5d9-0584453fcdd8" name="Changes" comment="" />
+      <created>1718385590160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718385590160</updated>
+    </task>
+    <servers />
+  </component>
+</project>

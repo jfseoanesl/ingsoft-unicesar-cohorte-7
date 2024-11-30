@@ -39,8 +39,14 @@ public class Pedido {
            total += i.getTotalItem();
         }
 
+
+        return total;
+
+    }
+
+    public double calcularImpuesto(double total){
         if(this.pais.equals("US")){
-               total += total * 0.07;
+            total += total * 0.07;
         }
         else if(this.pais.equals("EU")){
 
@@ -52,6 +58,5 @@ public class Pedido {
         }
 
         return total;
-
     }
 }

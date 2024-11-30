@@ -12,6 +12,7 @@ public class Casual extends Calzado {
 
     @Override
     public String getDescripcion() {
+
         return  " Calzado casual";
     }
     
